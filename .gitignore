@@ -1,0 +1,7 @@
+__pycache__/*
+.ipynb_checkpoints/*
+checkpoints/*
+data/*
+
+helper.py
+problem_unittests.py
